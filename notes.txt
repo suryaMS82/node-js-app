@@ -1,0 +1,1 @@
+[{"title":"name","body":"surya"},{"title":"mobile","body":"samsung, redme, apple,oppo"},{"title":"occasions","body":"pongal , ugadi ,dhiwali"},{"title":"heros","body":"chiru , NTR,allu arjun, balayya"},{"title":"food","body":"dosa,puri, chapati"}]
